@@ -41,3 +41,4 @@ eachOrder.forEach(function(orders) {
      var eachPrice = pricePerBaloon.split("and");
      console.log(priceForEach);
    });
+   
